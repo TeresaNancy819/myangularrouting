@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    color:white;
+    }
+    .Conainter{
+        display: flex;
+        /* border:1px solid black; */
+        /* background-color: black; */
+        width :100%;
+        height:1000px;
+        padding :20px;
+        justify-content: space-around;
+    }
+    .ConainterOne{
+        border:1px solid black;
+        width :50%;
+        height:335px;
+        padding :20px;
+        background-color: rgb(49, 26, 70);
+        
+    }
+    .one{
+    /* border:1px solid  red; */
+    width:250px;
+    height: 100px;
+    padding:15px;
+    }
+    .two{
+        /* border:1px solid  pink; */
+        width:250px;
+        height: 150px;
+        padding: 20px;
+    }
+    .three{
+        display: flex;
+        justify-content: space-between;
+    }
+    .ConatinerTwo{
+        /* border:1 px solid black; */
+        width: 50%;
+        height:350px;
+        object-fit: cover;
+    
+        
+    }

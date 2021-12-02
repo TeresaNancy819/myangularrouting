@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    text-align: center;  
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid black(119, 6, 44);
+    background-color: rgb(172, 167, 167);
+    height:30px;
+
+}
